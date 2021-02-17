@@ -24,4 +24,4 @@ i<-((100+a)/2)
 j<-((g/2)
 k<-((RDIL+ZDIL)/2)
 #Dual endpoint dilutions
-print(paste("100%",i,ZDIL,k,RDIL,h,0))
+print(paste("Dual Endpoint:","100%",i,ZDIL,k,RDIL,h,0))
